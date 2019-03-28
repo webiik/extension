@@ -1,0 +1,16 @@
+{
+  "name": "webiik/extension",
+  "description": "Skeleton of Webiik extension.",
+  "keywords": ["webiik", "extension"],
+  "homepage": "https://www.webiik.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jiri Mihal",
+      "email": "jiri@mihal.me"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  }
+}
